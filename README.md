@@ -20,7 +20,7 @@ The extracted data is organized into three main tabs:
 - **Products Tab**: Lists product details such as names, quantities, unit prices, taxes, and prices (with and without tax). Optional fields like discounts are also included.
 - ![Products Tab](Screenshot (488).png)
 - **Customers Tab**: Shows customer information like names, phone numbers, and total purchase amounts.
-- ![Customers Tab](path/to/image-invoices-tab.png)
+- ![Customers Tab](https://github.com/Rohithchowk/swipe/blob/main/Screenshot%20(487).png?raw=true)
 
 ### 2. Real-Time Data Synchronization
 I used Redux for centralized state management to ensure real-time updates:

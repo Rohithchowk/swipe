@@ -18,7 +18,7 @@ The extracted data is organized into three main tabs:
 - **Invoices Tab**: Displays comprehensive invoice details, including serial numbers, customer names, products, quantities, taxes, total amounts, and dates.
 - ![Invoices Tab]([path/to/image-invoices-tab.png](https://github.com/Rohithchowk/swipe/blob/main/Screenshot%20(489).png?raw=true))
 - **Products Tab**: Lists product details such as names, quantities, unit prices, taxes, and prices (with and without tax). Optional fields like discounts are also included.
-- ![Products Tab](path/to/image-invoices-tab.png)
+- ![Products Tab](Screenshot (488).png)
 - **Customers Tab**: Shows customer information like names, phone numbers, and total purchase amounts.
 - ![Customers Tab](path/to/image-invoices-tab.png)
 

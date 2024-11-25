@@ -266,7 +266,7 @@ const Home = () => {
       }}
     >
       <Dialog open={openDialog}>
-        <DialogTitle>Welcome How are you?</DialogTitle>
+        <DialogTitle  sx={{ fontSize: '1.5rem', fontWeight: 'bold' }}>Welcome How are you? Run the Backend (Gemini) Code Locally as i havent deploed it!</DialogTitle>
         <DialogContent>
           <Typography>Upload Your Invoice Here! Get Data ! If you are facing problem in extracting data, it might be due to two reasons : 1.Gemini API resource got exhausted 2.Uploading unsupported file format. Try after few minutes if the problem is with gemini. </Typography>
         </DialogContent>

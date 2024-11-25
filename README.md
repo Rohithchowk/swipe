@@ -16,8 +16,11 @@ I integrated AI-based data extraction to handle various file formats, including:
 ### 3.Data Organization
 The extracted data is organized into three main tabs:
 - **Invoices Tab**: Displays comprehensive invoice details, including serial numbers, customer names, products, quantities, taxes, total amounts, and dates.
+- ![Invoices Tab](path/to/image-invoices-tab.png)
 - **Products Tab**: Lists product details such as names, quantities, unit prices, taxes, and prices (with and without tax). Optional fields like discounts are also included.
+- ![Products Tab](path/to/image-invoices-tab.png)
 - **Customers Tab**: Shows customer information like names, phone numbers, and total purchase amounts.
+- ![Customers Tab](path/to/image-invoices-tab.png)
 
 ### 2. Real-Time Data Synchronization
 I used Redux for centralized state management to ensure real-time updates:

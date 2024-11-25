@@ -1,0 +1,50 @@
+.container {
+  margin: 10px;
+}
+
+.select-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.select {
+  width: 200px;
+}
+
+.paper {
+  margin-top: 20px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #941b1c;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.message {
+  text-align: center;
+  margin-top: 10px;
+  color: green;
+}
+.sticky-table {
+  max-height: 440px;
+  overflow-y: auto;
+}
+
+.sticky-table th {
+  position: sticky;
+  top: 0;
+  background-color: #f8f9fa; /* Adjust the background color as needed */
+  z-index: 100;
+}

@@ -8,19 +8,25 @@ This is a React-based web application that I developed for Swipe. The applicatio
 
 ### 1. AI-Powered Data Extraction
 I integrated AI-based data extraction to handle various file formats, including:
+- ![Upload Invoice](https://github.com/Rohithchowk/swipe/blob/main/Screenshot%20(487).png?raw=true)
+
 
 - **PDFs and Images**: Processes invoice details, such as customer data, item details, totals, and taxes.
 
 ### 2.Excel Sheet Data Extraction
 - **Excel files**: Extracts transaction details like serial numbers, amounts, and customer information.
+- - ![Invoices Tab](https://github.com/Rohithchowk/swipe/blob/main/Screenshot%20(493).png?raw=true)
+  - - ![Invoices Tab](https://github.com/Rohithchowk/swipe/blob/main/Screenshot%20(494).png?raw=true)
+
+
 ### 3.Data Organization
 The extracted data is organized into three main tabs:
 - **Invoices Tab**: Displays comprehensive invoice details, including serial numbers, customer names, products, quantities, taxes, total amounts, and dates.
-- ![Invoices Tab]([path/to/image-invoices-tab.png](https://github.com/Rohithchowk/swipe/blob/main/Screenshot%20(489).png?raw=true))
+- ![Invoices Tab](https://github.com/Rohithchowk/swipe/blob/main/Screenshot%20(488).png?raw=true)
 - **Products Tab**: Lists product details such as names, quantities, unit prices, taxes, and prices (with and without tax). Optional fields like discounts are also included.
-- ![Products Tab](Screenshot (488).png)
+- ![Products Tab]([Screenshot (488).png](https://github.com/Rohithchowk/swipe/blob/main/Screenshot%20(490).png?raw=true))
 - **Customers Tab**: Shows customer information like names, phone numbers, and total purchase amounts.
-- ![Customers Tab](https://github.com/Rohithchowk/swipe/blob/main/Screenshot%20(487).png?raw=true)
+- ![Customers Tab](https://github.com/Rohithchowk/swipe/blob/main/Screenshot%20(489).png?raw=true)
 
 ### 2. Real-Time Data Synchronization
 I used Redux for centralized state management to ensure real-time updates:

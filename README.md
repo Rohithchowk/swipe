@@ -10,6 +10,8 @@ This is a React-based web application that I developed for Swipe. The applicatio
 
 ### 1. AI-Powered Data Extraction
 I integrated AI-based data extraction to handle various file formats, including:
+- ![Upload Invoice](https://github.com/Rohithchowk/swipe/blob/main/Screenshot%20(485).png?raw=true)
+
 - ![Upload Invoice](https://github.com/Rohithchowk/swipe/blob/main/Screenshot%20(487).png?raw=true)
 
 
